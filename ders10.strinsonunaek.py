@@ -1,0 +1,1 @@
+print("kişinin adı",end=":") #stringin sonuna konacak eki getirir 
